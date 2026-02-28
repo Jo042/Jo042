@@ -50,7 +50,7 @@ OpenTofu / Ansible / LocalStack を用いてMinecraftサーバー環境をコー
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jo042&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jo042&theme=default)
 
 ---
 
