@@ -1,15 +1,15 @@
-# Hi, I'm Jo 👋
+# Hi, I'm Jo 
 ---
 
 ## About Me
 
-- 🎓 Industrial Systems Engineering @ 青山学院大学（2028年3月卒業予定）
-- 🔭 現在取り組んでいること：[Spotee](https://github.com/Jo042/spotee) — スポット検索 × ソーシャル機能のWebアプリ
-- 📚 学習中：アルゴリズム・データ構造 / システム設計 / 機械学習
+-  Industrial Systems Engineering @ 青山学院大学（2028年3月卒業予定）
+-  現在取り組んでいること：[Spotee](https://github.com/Jo042/spotee) — スポット検索 × ソーシャル機能のWebアプリ
+-  学習中：アルゴリズム・データ構造 / システム設計 / 機械学習
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -33,9 +33,12 @@
 **Game Development**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
+**Deep Learning**  
+<img src="https://github.com/user-attachments/assets/58e2e04c-3604-4304-aaa6-c5c3fd187d04" width="90" alt="Deep Learning">
+
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### [Spotee]([リポジトリURL](https://github.com/Jo042/spotee))
 スポット検索にブッキング的フィルタリングとソーシャル機能を組み合わせたWebアプリ  
@@ -48,11 +51,11 @@ OpenTofu / Ansible / LocalStack を用いてMinecraftサーバー環境をコー
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jo042&theme=default)
 
 ---
 
-## 📫 Connect
+##  Connect
 （保留）
